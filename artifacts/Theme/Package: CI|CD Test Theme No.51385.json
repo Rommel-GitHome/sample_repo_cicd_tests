@@ -1,0 +1,13 @@
+{
+	"id": "e318a6a8-9091-4259-a0ec-5eb2c64108c7",
+	"createdAt": "2023-01-05T00:33:42.335Z",
+	"createdBy": "testcafe",
+	"content": [],
+	"name": "Package: CI|CD Test Theme No.51385",
+	"ver": "23.1.5.033",
+	"description": "Package: Sample UI5 Theme -- 56339",
+	"ui5Theme": "sap_belize_plus",
+	"stylesheet": null,
+	"calculated": "",
+	"package": "d182a9d0-9466-4d5a-a939-4223b4b94d35"
+}
