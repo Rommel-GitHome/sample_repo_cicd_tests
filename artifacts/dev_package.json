@@ -1,13 +1,13 @@
 {
-	"id": "1505e797-e0fa-432e-92aa-a566401451be",
-	"createdAt": "2022-11-18T16:22:29.956Z",
+	"id": "bded99a3-a3af-4d08-86da-54abd63db460",
+	"createdAt": "2023-01-06T00:34:31.221Z",
 	"createdBy": "testcafe",
 	"git": {
 		"remote": "https://github.com/Rommel-GitHome/sample_repo_cicd_tests.git"
 	},
-	"name": "Sample Repo CICD Tests",
-	"description": null,
-	"ver": "22.11.18.1622",
+	"name": "Package: CI|CD Test Package No.75440",
+	"description": "This is sample package for CI|CD Test no.86093",
+	"ver": "23.1.6.036",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
@@ -16,7 +16,13 @@
 	"dictionary": [],
 	"jsclass": [],
 	"jsscript_group": [],
-	"theme": [],
+	"theme": [
+		{
+			"id": "acddc29d-185d-4305-a003-9c5ede0f2a60",
+			"name": "Package: CI|CD Test Theme No.86093",
+			"description": "Package: Sample UI5 Theme -- 89520"
+		}
+	],
 	"pdf": [],
 	"rulesengine": [],
 	"reports": [],
@@ -34,5 +40,6 @@
 	"script_scheduler": [],
 	"wf_definition": [],
 	"connector": [],
-	"events": []
+	"events": [],
+	"media_library": []
 }
