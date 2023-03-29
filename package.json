@@ -1,7 +1,7 @@
 {
-  "name": "SampleRepoCICDTests",
+  "name": "Package:CI|CDTestPackageNo.60143",
   "version": "1.0.0",
-  "description": "Sample Repo CICD Tests",
+  "description": "This is sample package for CI|CD Test no.32435",
   "author": "Neptune Software",
   "license": "LicenseRef-LICENSE",
   "private": true,
