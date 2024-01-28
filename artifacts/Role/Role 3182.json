@@ -1,354 +1,354 @@
 {
-	"id": "e57233f9-903d-45ef-9186-9ff1cd0ac8e1",
-	"createdAt": "2023-12-19T22:12:38.000Z",
-	"createdBy": "admin",
-	"name": "Role Rommel",
+	"id": "a5fc6623-06e7-4ef3-a45c-f7f33d54477f",
+	"createdAt": "2024-01-28T22:42:59.363Z",
+	"createdBy": "playwright",
+	"name": "Role 3182",
 	"description": null,
-	"ver": "24.1.28.2240",
+	"ver": "24.1.28.2243",
 	"package": "1505e797-e0fa-432e-92aa-a566401451be",
 	"acl": [
 		{
-			"id": "workflowtaskaction_e",
+			"id": "workflowtaskaction_d",
 			"name": "Task Action"
 		},
 		{
-			"id": "workflowsubstitution_e",
+			"id": "workflowsubstitution_d",
 			"name": "Substitutions"
 		},
 		{
-			"id": "workflowmonitor_e",
+			"id": "workflowmonitor_d",
 			"name": "Overview"
 		},
 		{
-			"id": "workflowdetermination_e",
+			"id": "workflowdetermination_d",
 			"name": "Approvers"
 		},
 		{
-			"id": "workflowdefinition_e",
+			"id": "workflowdefinition_d",
 			"name": "Definition"
 		},
 		{
-			"id": "workflow_e",
+			"id": "workflow_d",
 			"name": "Workflow"
 		},
 		{
-			"id": "toolssystemreport_e",
+			"id": "toolssystemreport_d",
 			"name": "System Reports"
 		},
 		{
-			"id": "toolsscripteditor_e",
+			"id": "toolsscripteditor_d",
 			"name": "Script Editor"
 		},
 		{
-			"id": "toolsrestore_e",
+			"id": "toolsrestore_d",
 			"name": "Application Trashbin"
 		},
 		{
-			"id": "toolsnpmmodules_e",
+			"id": "toolsnpmmodules_d",
 			"name": "NPM Modules"
 		},
 		{
-			"id": "toolsjobschedulerlog_e",
+			"id": "toolsjobschedulerlog_d",
 			"name": "Job Log"
 		},
 		{
-			"id": "toolsjobscheduler_e",
+			"id": "toolsjobscheduler_d",
 			"name": "Job Manage"
 		},
 		{
-			"id": "toolshousekeeping_e",
+			"id": "toolshousekeeping_d",
 			"name": "Housekeeping"
 		},
 		{
-			"id": "toolsevents_e",
+			"id": "toolsevents_d",
 			"name": "Events"
 		},
 		{
-			"id": "toolsdbdefinition_e",
+			"id": "toolsdbdefinition_d",
 			"name": "Table Definition"
 		},
 		{
-			"id": "toolsdbbrowser_e",
+			"id": "toolsdbbrowser_d",
 			"name": "Table Browser"
 		},
 		{
-			"id": "tools_e",
+			"id": "tools_d",
 			"name": "Tools"
 		},
 		{
-			"id": "testing_e",
+			"id": "testing_d",
 			"name": "Testing"
 		},
 		{
-			"id": "settingssystems_e",
+			"id": "settingssystems_d",
 			"name": "Remote Systems"
 		},
 		{
-			"id": "settingssystem_e",
+			"id": "settingssystem_d",
 			"name": "System Settings"
 		},
 		{
-			"id": "settingsimportldapgroup_e",
+			"id": "settingsimportldapgroup_d",
 			"name": "Import LDAP "
 		},
 		{
-			"id": "settingscustomizing_e",
+			"id": "settingscustomizing_d",
 			"name": "Custom Settings"
 		},
 		{
-			"id": "settings_e",
+			"id": "settings_d",
 			"name": "Settings"
 		},
 		{
-			"id": "securityuser_e",
+			"id": "securityuser_d",
 			"name": "User"
 		},
 		{
-			"id": "securitytableaudit_e",
+			"id": "securitytableaudit_d",
 			"name": "Table Audit"
 		},
 		{
-			"id": "securityrole_e",
+			"id": "securityrole_d",
 			"name": "Role"
 		},
 		{
-			"id": "securitydepartment_e",
+			"id": "securitydepartment_d",
 			"name": "Security Group"
 		},
 		{
-			"id": "securityauditlog_e",
+			"id": "securityauditlog_d",
 			"name": "Audit Log"
 		},
 		{
-			"id": "security_e",
+			"id": "security_d",
 			"name": "Security"
 		},
 		{
-			"id": "runtranslation_e",
+			"id": "runtranslation_d",
 			"name": "Translation"
 		},
 		{
-			"id": "runtileblackout_e",
+			"id": "runtileblackout_d",
 			"name": "Tile Blackout"
 		},
 		{
-			"id": "runtile_e",
+			"id": "runtile_d",
 			"name": "Tile"
 		},
 		{
-			"id": "runpushusers_e",
+			"id": "runpushusers_d",
 			"name": "Push Notification Users"
 		},
 		{
-			"id": "runmobiledebug_e",
+			"id": "runmobiledebug_d",
 			"name": "Mobile Debug"
 		},
 		{
-			"id": "runmobile_e",
+			"id": "runmobile_d",
 			"name": "Mobile Client"
 		},
 		{
-			"id": "runlaunchpadtrace_e",
+			"id": "runlaunchpadtrace_d",
 			"name": "Launchpad Trace"
 		},
 		{
-			"id": "runlaunchpad_e",
+			"id": "runlaunchpad_d",
 			"name": "Launchpad"
 		},
 		{
-			"id": "rungroup_e",
+			"id": "rungroup_d",
 			"name": "Tile Group"
 		},
 		{
-			"id": "runfav_e",
+			"id": "runfav_d",
 			"name": "Favorite Management"
 		},
 		{
-			"id": "runapps_e",
+			"id": "runapps_d",
 			"name": "Application Management"
 		},
 		{
-			"id": "runapplog_e",
+			"id": "runapplog_d",
 			"name": "Application Log"
 		},
 		{
-			"id": "monitorsystemlogs_e",
+			"id": "monitorsystemlogs_d",
 			"name": "System Logs"
 		},
 		{
-			"id": "monitorsmtplog_e",
+			"id": "monitorsmtplog_d",
 			"name": "SMTP Log"
 		},
 		{
-			"id": "monitorsessions_e",
+			"id": "monitorsessions_d",
 			"name": "User Sessions"
 		},
 		{
-			"id": "monitorperformance_e",
+			"id": "monitorperformance_d",
 			"name": "Load Test"
 		},
 		{
-			"id": "monitorpdfarchive_e",
+			"id": "monitorpdfarchive_d",
 			"name": "PDF Archive"
 		},
 		{
-			"id": "monitoroverview_e",
+			"id": "monitoroverview_d",
 			"name": "System Processes"
 		},
 		{
-			"id": "monitorlocking_e",
+			"id": "monitorlocking_d",
 			"name": "Lock Entries"
 		},
 		{
-			"id": "monitoring_e",
+			"id": "monitoring_d",
 			"name": "Monitoring"
 		},
 		{
-			"id": "help_e",
+			"id": "help_d",
 			"name": "Help"
 		},
 		{
-			"id": "developmentthemeimport_e",
+			"id": "developmentthemeimport_d",
 			"name": "Theme Import "
 		},
 		{
-			"id": "developmentthemedesigner_e",
+			"id": "developmentthemedesigner_d",
 			"name": "Theme Designer "
 		},
 		{
-			"id": "developmenttestsunit_e",
+			"id": "developmenttestsunit_d",
 			"name": "Test Unit"
 		},
 		{
-			"id": "developmenttestsrun_e",
+			"id": "developmenttestsrun_d",
 			"name": "Test Run"
 		},
 		{
-			"id": "developmenttestsplan_e",
+			"id": "developmenttestsplan_d",
 			"name": "Test Plan"
 		},
 		{
-			"id": "developmentrulesengine_e",
+			"id": "developmentrulesengine_d",
 			"name": "Rules Engine"
 		},
 		{
-			"id": "developmentpdfdesigner_e",
+			"id": "developmentpdfdesigner_d",
 			"name": "PDF Designer"
 		},
 		{
-			"id": "developmentpackage_e",
+			"id": "developmentpackage_d",
 			"name": "Development Package"
 		},
 		{
-			"id": "developmentmedia_e",
+			"id": "developmentmedia_d",
 			"name": "Media Library"
 		},
 		{
-			"id": "developmentmarketplace_e",
+			"id": "developmentmarketplace_d",
 			"name": "DXP Marketplace"
 		},
 		{
-			"id": "developmentjshelpers_e",
+			"id": "developmentjshelpers_d",
 			"name": "Code Snippets"
 		},
 		{
-			"id": "developmentemailtemplate_e",
+			"id": "developmentemailtemplate_d",
 			"name": "Email Template"
 		},
 		{
-			"id": "developmentdoc_e",
+			"id": "developmentdoc_d",
 			"name": "Documentation"
 		},
 		{
-			"id": "developmentdeploytransfer_e",
+			"id": "developmentdeploytransfer_d",
 			"name": "Deployment Transfer"
 		},
 		{
-			"id": "developmentdeployroutes_e",
+			"id": "developmentdeployroutes_d",
 			"name": "Deployment Routes"
 		},
 		{
-			"id": "developmentdeploylog_e",
+			"id": "developmentdeploylog_d",
 			"name": "Deployment Log"
 		},
 		{
-			"id": "developmentdeployapprove_e",
+			"id": "developmentdeployapprove_d",
 			"name": "Deployment Approve"
 		},
 		{
-			"id": "developmentdeploy_e",
+			"id": "developmentdeploy_d",
 			"name": "Deployment Create"
 		},
 		{
-			"id": "developmentappeditor_e",
+			"id": "developmentappeditor_d",
 			"name": "App Editor"
 		},
 		{
-			"id": "developmentappdesigner_e",
+			"id": "developmentappdesigner_d",
 			"name": "App Designer"
 		},
 		{
-			"id": "developmentadaptivedesigner_e",
+			"id": "developmentadaptivedesigner_d",
 			"name": "Adaptive Designer"
 		},
 		{
-			"id": "development_e",
+			"id": "development_d",
 			"name": "Development"
 		},
 		{
-			"id": "design_e",
+			"id": "design_d",
 			"name": "Design"
 		},
 		{
-			"id": "deployment_e",
+			"id": "deployment_d",
 			"name": "Deployment"
 		},
 		{
-			"id": "connectivityswaggerui_e",
+			"id": "connectivityswaggerui_d",
 			"name": "Swagger UI"
 		},
 		{
-			"id": "connectivityodatasource_e",
+			"id": "connectivityodatasource_d",
 			"name": "OData Source"
 		},
 		{
-			"id": "connectivityodatamock_e",
+			"id": "connectivityodatamock_d",
 			"name": "OData Mock Data"
 		},
 		{
-			"id": "connectivityconnector_e",
+			"id": "connectivityconnector_d",
 			"name": "Connector"
 		},
 		{
-			"id": "connectivitycertificates_e",
+			"id": "connectivitycertificates_d",
 			"name": "Certificates"
 		},
 		{
-			"id": "connectivityauthentication_e",
+			"id": "connectivityauthentication_d",
 			"name": "Proxy Authentication"
 		},
 		{
-			"id": "connectivityapitrace_e",
+			"id": "connectivityapitrace_d",
 			"name": "API Trace"
 		},
 		{
-			"id": "connectivityapigroup_e",
+			"id": "connectivityapigroup_d",
 			"name": "Connectivity Group"
 		},
 		{
-			"id": "connectivityapidesigner_e",
+			"id": "connectivityapidesigner_d",
 			"name": "API Designer"
 		},
 		{
-			"id": "connectivityapiclient_e",
+			"id": "connectivityapiclient_d",
 			"name": "API Client"
 		},
 		{
-			"id": "connectivity_e",
+			"id": "connectivity_d",
 			"name": "Connectivity"
 		},
 		{
-			"id": "administration_e",
+			"id": "administration_d",
 			"name": "Administration"
 		}
 	]
