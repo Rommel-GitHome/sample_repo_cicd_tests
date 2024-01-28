@@ -7,7 +7,7 @@
 	},
 	"name": "Sample Repo CICD Tests",
 	"description": null,
-	"ver": "22.11.18.1622",
+	"ver": "24.1.28.2245",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
@@ -30,6 +30,11 @@
 		{
 			"id": "a5fc6623-06e7-4ef3-a45c-f7f33d54477f",
 			"name": "Role 3182",
+			"description": null
+		},
+		{
+			"id": "6576c610-22bd-ee11-85f9-0022489f935c",
+			"name": "Role 3225",
 			"description": null
 		}
 	],
