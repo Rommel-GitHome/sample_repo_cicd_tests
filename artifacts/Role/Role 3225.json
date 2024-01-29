@@ -4,347 +4,347 @@
 	"createdBy": "rommel",
 	"name": "Role 3225",
 	"description": null,
-	"ver": "24.1.28.2244",
+	"ver": "24.1.28.2248",
 	"package": "1505e797-e0fa-432e-92aa-a566401451be",
 	"acl": [
 		{
-			"id": "workflowtaskaction_e",
+			"id": "workflowtaskaction_E",
 			"name": "Task Action"
 		},
 		{
-			"id": "workflowsubstitution_e",
+			"id": "workflowsubstitution_E",
 			"name": "Substitutions"
 		},
 		{
-			"id": "workflowmonitor_e",
+			"id": "workflowmonitor_E",
 			"name": "Overview"
 		},
 		{
-			"id": "workflowdetermination_e",
+			"id": "workflowdetermination_E",
 			"name": "Approvers"
 		},
 		{
-			"id": "workflowdefinition_e",
+			"id": "workflowdefinition_E",
 			"name": "Definition"
 		},
 		{
-			"id": "workflow_e",
+			"id": "workflow_E",
 			"name": "Workflow"
 		},
 		{
-			"id": "toolssystemreport_e",
+			"id": "toolssystemreport_E",
 			"name": "System Reports"
 		},
 		{
-			"id": "toolsscripteditor_e",
+			"id": "toolsscripteditor_E",
 			"name": "Script Editor"
 		},
 		{
-			"id": "toolsrestore_e",
+			"id": "toolsrestore_E",
 			"name": "Application Trashbin"
 		},
 		{
-			"id": "toolsnpmmodules_e",
+			"id": "toolsnpmmodules_E",
 			"name": "NPM Modules"
 		},
 		{
-			"id": "toolsjobschedulerlog_e",
+			"id": "toolsjobschedulerlog_E",
 			"name": "Job Log"
 		},
 		{
-			"id": "toolsjobscheduler_e",
+			"id": "toolsjobscheduler_E",
 			"name": "Job Manage"
 		},
 		{
-			"id": "toolshousekeeping_e",
+			"id": "toolshousekeeping_E",
 			"name": "Housekeeping"
 		},
 		{
-			"id": "toolsevents_e",
+			"id": "toolsevents_E",
 			"name": "Events"
 		},
 		{
-			"id": "toolsdbdefinition_e",
+			"id": "toolsdbdefinition_E",
 			"name": "Table Definition"
 		},
 		{
-			"id": "toolsdbbrowser_e",
+			"id": "toolsdbbrowser_E",
 			"name": "Table Browser"
 		},
 		{
-			"id": "tools_e",
+			"id": "tools_E",
 			"name": "Tools"
 		},
 		{
-			"id": "testing_e",
+			"id": "testing_E",
 			"name": "Testing"
 		},
 		{
-			"id": "settingssystems_e",
+			"id": "settingssystems_E",
 			"name": "Remote Systems"
 		},
 		{
-			"id": "settingssystem_e",
+			"id": "settingssystem_E",
 			"name": "System Settings"
 		},
 		{
-			"id": "settingsimportldapgroup_e",
+			"id": "settingsimportldapgroup_E",
 			"name": "Import LDAP "
 		},
 		{
-			"id": "settingscustomizing_e",
+			"id": "settingscustomizing_E",
 			"name": "Custom Settings"
 		},
 		{
-			"id": "settings_e",
+			"id": "settings_E",
 			"name": "Settings"
 		},
 		{
-			"id": "securityuser_e",
+			"id": "securityuser_E",
 			"name": "User"
 		},
 		{
-			"id": "securitytableaudit_e",
+			"id": "securitytableaudit_E",
 			"name": "Table Audit"
 		},
 		{
-			"id": "securityrole_e",
+			"id": "securityrole_E",
 			"name": "Role"
 		},
 		{
-			"id": "securitydepartment_e",
+			"id": "securitydepartment_E",
 			"name": "Security Group"
 		},
 		{
-			"id": "securityauditlog_e",
+			"id": "securityauditlog_E",
 			"name": "Audit Log"
 		},
 		{
-			"id": "security_e",
+			"id": "security_E",
 			"name": "Security"
 		},
 		{
-			"id": "runtranslation_e",
+			"id": "runtranslation_E",
 			"name": "Translation"
 		},
 		{
-			"id": "runtileblackout_e",
+			"id": "runtileblackout_E",
 			"name": "Tile Blackout"
 		},
 		{
-			"id": "runtile_e",
+			"id": "runtile_E",
 			"name": "Tile"
 		},
 		{
-			"id": "runpushusers_e",
+			"id": "runpushusers_E",
 			"name": "Push Notification Users"
 		},
 		{
-			"id": "runmobiledebug_e",
+			"id": "runmobiledebug_E",
 			"name": "Mobile Debug"
 		},
 		{
-			"id": "runmobile_e",
+			"id": "runmobile_E",
 			"name": "Mobile Client"
 		},
 		{
-			"id": "runlaunchpadtrace_e",
+			"id": "runlaunchpadtrace_E",
 			"name": "Launchpad Trace"
 		},
 		{
-			"id": "runlaunchpad_e",
+			"id": "runlaunchpad_E",
 			"name": "Launchpad"
 		},
 		{
-			"id": "rungroup_e",
+			"id": "rungroup_E",
 			"name": "Tile Group"
 		},
 		{
-			"id": "runfav_e",
+			"id": "runfav_E",
 			"name": "Favorite Management"
 		},
 		{
-			"id": "runapps_e",
+			"id": "runapps_E",
 			"name": "Application Management"
 		},
 		{
-			"id": "runapplog_e",
+			"id": "runapplog_E",
 			"name": "Application Log"
 		},
 		{
-			"id": "monitorsystemlogs_e",
+			"id": "monitorsystemlogs_E",
 			"name": "System Logs"
 		},
 		{
-			"id": "monitorsmtplog_e",
+			"id": "monitorsmtplog_E",
 			"name": "SMTP Log"
 		},
 		{
-			"id": "monitorsessions_e",
+			"id": "monitorsessions_E",
 			"name": "User Sessions"
 		},
 		{
-			"id": "monitorperformance_e",
+			"id": "monitorperformance_E",
 			"name": "Load Test"
 		},
 		{
-			"id": "monitorpdfarchive_e",
+			"id": "monitorpdfarchive_E",
 			"name": "PDF Archive"
 		},
 		{
-			"id": "monitoroverview_e",
+			"id": "monitoroverview_E",
 			"name": "System Processes"
 		},
 		{
-			"id": "monitorlocking_e",
+			"id": "monitorlocking_E",
 			"name": "Lock Entries"
 		},
 		{
-			"id": "monitoring_e",
+			"id": "monitoring_E",
 			"name": "Monitoring"
 		},
 		{
-			"id": "help_e",
+			"id": "help_E",
 			"name": "Help"
 		},
 		{
-			"id": "developmentthemeimport_e",
+			"id": "developmentthemeimport_E",
 			"name": "Theme Import "
 		},
 		{
-			"id": "developmentthemedesigner_e",
+			"id": "developmentthemedesigner_E",
 			"name": "Theme Designer "
 		},
 		{
-			"id": "developmenttestsunit_e",
+			"id": "developmenttestsunit_E",
 			"name": "Test Unit"
 		},
 		{
-			"id": "developmenttestsrun_e",
+			"id": "developmenttestsrun_E",
 			"name": "Test Run"
 		},
 		{
-			"id": "developmenttestsplan_e",
+			"id": "developmenttestsplan_E",
 			"name": "Test Plan"
 		},
 		{
-			"id": "developmentrulesengine_e",
+			"id": "developmentrulesengine_E",
 			"name": "Rules Engine"
 		},
 		{
-			"id": "developmentpdfdesigner_e",
+			"id": "developmentpdfdesigner_E",
 			"name": "PDF Designer"
 		},
 		{
-			"id": "developmentmedia_e",
+			"id": "developmentmedia_E",
 			"name": "Media Library"
 		},
 		{
-			"id": "developmentmarketplace_e",
+			"id": "developmentmarketplace_E",
 			"name": "DXP Marketplace"
 		},
 		{
-			"id": "developmentjshelpers_e",
+			"id": "developmentjshelpers_E",
 			"name": "Code Snippets"
 		},
 		{
-			"id": "developmentemailtemplate_e",
+			"id": "developmentemailtemplate_E",
 			"name": "Email Template"
 		},
 		{
-			"id": "developmentdoc_e",
+			"id": "developmentdoc_E",
 			"name": "Documentation"
 		},
 		{
-			"id": "developmentdeploytransfer_e",
+			"id": "developmentdeploytransfer_E",
 			"name": "Deployment Transfer"
 		},
 		{
-			"id": "developmentdeployroutes_e",
+			"id": "developmentdeployroutes_E",
 			"name": "Deployment Routes"
 		},
 		{
-			"id": "developmentdeploylog_e",
+			"id": "developmentdeploylog_E",
 			"name": "Deployment Log"
 		},
 		{
-			"id": "developmentdeployapprove_e",
+			"id": "developmentdeployapprove_E",
 			"name": "Deployment Approve"
 		},
 		{
-			"id": "developmentdeploy_e",
+			"id": "developmentdeploy_E",
 			"name": "Deployment Create"
 		},
 		{
-			"id": "developmentappeditor_e",
+			"id": "developmentappeditor_E",
 			"name": "App Editor"
 		},
 		{
-			"id": "developmentappdesigner_e",
+			"id": "developmentappdesigner_E",
 			"name": "App Designer"
 		},
 		{
-			"id": "developmentadaptivedesigner_e",
+			"id": "developmentadaptivedesigner_E",
 			"name": "Adaptive Designer"
 		},
 		{
-			"id": "development_e",
+			"id": "development_E",
 			"name": "Development"
 		},
 		{
-			"id": "design_e",
+			"id": "design_E",
 			"name": "Design"
 		},
 		{
-			"id": "deployment_e",
+			"id": "deployment_E",
 			"name": "Deployment"
 		},
 		{
-			"id": "connectivityswaggerui_e",
+			"id": "connectivityswaggerui_E",
 			"name": "Swagger UI"
 		},
 		{
-			"id": "connectivityodatasource_e",
+			"id": "connectivityodatasource_E",
 			"name": "OData Source"
 		},
 		{
-			"id": "connectivityodatamock_e",
+			"id": "connectivityodatamock_E",
 			"name": "OData Mock Data"
 		},
 		{
-			"id": "connectivityconnector_e",
+			"id": "connectivityconnector_E",
 			"name": "Connector"
 		},
 		{
-			"id": "connectivitycertificates_e",
+			"id": "connectivitycertificates_E",
 			"name": "Certificates"
 		},
 		{
-			"id": "connectivityauthentication_e",
+			"id": "connectivityauthentication_E",
 			"name": "Proxy Authentication"
 		},
 		{
-			"id": "connectivityapitrace_e",
+			"id": "connectivityapitrace_E",
 			"name": "API Trace"
 		},
 		{
-			"id": "connectivityapigroup_e",
+			"id": "connectivityapigroup_E",
 			"name": "Connectivity Group"
 		},
 		{
-			"id": "connectivityapidesigner_e",
+			"id": "connectivityapidesigner_E",
 			"name": "API Designer"
 		},
 		{
-			"id": "connectivityapiclient_e",
+			"id": "connectivityapiclient_E",
 			"name": "API Client"
 		},
 		{
-			"id": "connectivity_e",
+			"id": "connectivity_E",
 			"name": "Connectivity"
 		},
 		{
-			"id": "administration_e",
+			"id": "administration_E",
 			"name": "Administration"
 		}
 	]
