@@ -7,15 +7,27 @@
 	},
 	"name": "Sample Repo CICD Tests",
 	"description": null,
-	"ver": "24.1.29.1626",
+	"ver": "24.01.30.1919",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
 	"odataSource": [],
 	"odataMock": [],
 	"dictionary": [],
-	"jsclass": [],
-	"jsscript_group": [],
+	"jsclass": [
+		{
+			"id": "17a3a73c-a4bf-ee11-85f9-0022489f935c",
+			"name": "script_3307",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "d51b3fee-4abc-ee11-85f9-0022489f935c",
+			"name": "Project_Testing",
+			"description": ""
+		}
+	],
 	"theme": [],
 	"pdf": [],
 	"rulesengine": [],
