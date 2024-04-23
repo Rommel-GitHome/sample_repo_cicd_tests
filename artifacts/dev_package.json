@@ -6,8 +6,8 @@
 		"remote": "https://github.com/Rommel-GitHome/sample_repo_cicd_tests.git"
 	},
 	"name": "Sample Repo CICD Tests",
-	"description": null,
-	"ver": "24.04.23.1620",
+	"description": "Sample",
+	"ver": "24.04.23.1622",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
