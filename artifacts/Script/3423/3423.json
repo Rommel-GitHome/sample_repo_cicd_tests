@@ -1,0 +1,27 @@
+{
+	"id": "1fc9a34a-e1f0-ee11-aaf0-000d3ab9651a",
+	"createdAt": "2024-04-02T11:08:11.586Z",
+	"createdBy": "rommel",
+	"globalScripts": [
+		{
+			"id": "467F79B3-B0EA-EE11-AAEE-000D3AB3187D",
+			"name": "Project_Testing - globalScript",
+			"contextname": "globalScript"
+		}
+	],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "3423",
+	"ver": "24.04.02.1110",
+	"description": null,
+	"folder": "",
+	"content": "const data_1 = await globals.globalScript.foo();",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "d51b3fee-4abc-ee11-85f9-0022489f935c",
+	"package": "1505e797-e0fa-432e-92aa-a566401451be"
+}
