@@ -7,7 +7,7 @@
 	},
 	"name": "Sample Repo CICD Tests",
 	"description": null,
-	"ver": "24.01.30.1919",
+	"ver": "24.04.23.1615",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
@@ -15,6 +15,41 @@
 	"odataMock": [],
 	"dictionary": [],
 	"jsclass": [
+		{
+			"id": "d3b89c09-f7c0-ee11-85f9-0022489f935c",
+			"name": "sendEmail",
+			"description": null
+		},
+		{
+			"id": "becb247f-b0ea-ee11-aaee-000d3ab3187d",
+			"name": "3427",
+			"description": null
+		},
+		{
+			"id": "7d9c1aa4-daf8-ee11-aaf0-000d3addda1f",
+			"name": "API Trace",
+			"description": null
+		},
+		{
+			"id": "645f83bb-6d01-ef11-aaf0-000d3addda1f",
+			"name": "adaptive",
+			"description": null
+		},
+		{
+			"id": "467f79b3-b0ea-ee11-aaee-000d3ab3187d",
+			"name": "SampleGlobalScript",
+			"description": null
+		},
+		{
+			"id": "2b2d9d56-2aec-ee11-aaee-000d3ab3187d",
+			"name": "sample_script",
+			"description": null
+		},
+		{
+			"id": "1fc9a34a-e1f0-ee11-aaf0-000d3ab9651a",
+			"name": "3423",
+			"description": null
+		},
 		{
 			"id": "17a3a73c-a4bf-ee11-85f9-0022489f935c",
 			"name": "script_3307",
