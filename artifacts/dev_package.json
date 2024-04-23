@@ -7,7 +7,7 @@
 	},
 	"name": "Sample Repo CICD Tests",
 	"description": null,
-	"ver": "24.04.23.1615",
+	"ver": "24.04.23.1620",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
