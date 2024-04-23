@@ -1,0 +1,21 @@
+{
+	"id": "2b2d9d56-2aec-ee11-aaee-000d3ab3187d",
+	"createdAt": "2024-03-27T11:08:29.126Z",
+	"createdBy": "rommel",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "sample_script",
+	"ver": "24.04.23.1610",
+	"description": null,
+	"folder": "Test",
+	"content": "console.log(\"Test sgsdg\")",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "d51b3fee-4abc-ee11-85f9-0022489f935c",
+	"package": "1505e797-e0fa-432e-92aa-a566401451be"
+}
