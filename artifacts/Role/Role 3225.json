@@ -32,10 +32,6 @@
 			"name": "Workflow"
 		},
 		{
-			"id": "toolssystemreport_E",
-			"name": "System Reports"
-		},
-		{
 			"id": "toolsscripteditor_E",
 			"name": "Script Editor"
 		},
@@ -74,10 +70,6 @@
 		{
 			"id": "tools_E",
 			"name": "Tools"
-		},
-		{
-			"id": "testing_E",
-			"name": "Testing"
 		},
 		{
 			"id": "settingssystems_E",
@@ -184,10 +176,6 @@
 			"name": "User Sessions"
 		},
 		{
-			"id": "monitorperformance_E",
-			"name": "Load Test"
-		},
-		{
 			"id": "monitorpdfarchive_E",
 			"name": "PDF Archive"
 		},
@@ -213,19 +201,7 @@
 		},
 		{
 			"id": "developmentthemedesigner_E",
-			"name": "Theme Designer "
-		},
-		{
-			"id": "developmenttestsunit_E",
-			"name": "Test Unit"
-		},
-		{
-			"id": "developmenttestsrun_E",
-			"name": "Test Run"
-		},
-		{
-			"id": "developmenttestsplan_E",
-			"name": "Test Plan"
+			"name": "Theme Designer"
 		},
 		{
 			"id": "developmentrulesengine_E",

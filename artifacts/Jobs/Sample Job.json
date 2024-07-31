@@ -1,0 +1,31 @@
+{
+	"id": "8ac3dbc8-cb21-ef11-86d2-002248a3ca43",
+	"createdAt": "2024-06-03T17:07:41.383Z",
+	"createdBy": "rommel",
+	"scripts": [
+		{
+			"id": "D3B89C09-F7C0-EE11-85F9-0022489F935C",
+			"name": "sendEmail",
+			"number": 1,
+			"abort": true,
+			"continue": false,
+			"skipto": false
+		}
+	],
+	"name": "Sample Job",
+	"description": null,
+	"alertEmail": null,
+	"active": false,
+	"intervalMonths": null,
+	"intervalDays": null,
+	"intervalHours": null,
+	"intervalMinutes": null,
+	"intervalSeconds": 60,
+	"maxRuntimeSeconds": "0",
+	"restartMaxRuntimeAbort": false,
+	"startdate": "2024-06-03T17:07:31.000Z",
+	"stopdate": "9999-12-31T00:00:00.000Z",
+	"executeInNextCycle": false,
+	"ver": "24.06.23.2144",
+	"package": "1505e797-e0fa-432e-92aa-a566401451be"
+}

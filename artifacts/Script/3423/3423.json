@@ -18,7 +18,6 @@
 	"folder": "",
 	"content": "const data_1 = await globals.globalScript.foo();",
 	"useAsGlobalScript": false,
-	"transpiledContent": null,
 	"lastRunSuccessful": false,
 	"isTypescript": false,
 	"language": "javascript",
