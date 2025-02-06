@@ -3,12 +3,15 @@
 	"createdAt": "2022-11-18T16:22:29.956Z",
 	"createdBy": "testcafe",
 	"git": {
-		"remote": "https://github.com/Rommel-GitHome/sample_repo_cicd_tests.git"
+		"remote": "https://github.com/Rommel-GitHome/sample_repo_cicd_tests.git",
+		"branch": "main"
 	},
 	"name": "Sample Repo CICD Tests",
 	"description": "Sample",
-	"ver": "24.04.23.1622",
+	"ver": "25.02.06.0906",
 	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
 	"excludeTemplateFiles": false,
 	"roles": [],
 	"apps": [],
@@ -72,21 +75,13 @@
 	"api_authentication": [],
 	"api_group": [],
 	"tile": [],
+	"tile_layout": [],
 	"category": [],
+	"tilegroup_layout": [],
 	"launchpad": [],
+	"launchpad_layout": [],
 	"certificates": [],
-	"role": [
-		{
-			"id": "a5fc6623-06e7-4ef3-a45c-f7f33d54477f",
-			"name": "Role 3182",
-			"description": null
-		},
-		{
-			"id": "6576c610-22bd-ee11-85f9-0022489f935c",
-			"name": "Role 3225",
-			"description": null
-		}
-	],
+	"role": [],
 	"systems": [],
 	"doc": [],
 	"wf_notifications": [],
@@ -103,5 +98,7 @@
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],
-	"wf_taskaction": []
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": []
 }
