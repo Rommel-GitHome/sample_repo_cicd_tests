@@ -31,21 +31,6 @@
 			"description": null
 		},
 		{
-			"id": "a742dd6d-9ce8-ef11-90cb-000d3a66ef53",
-			"name": "ai",
-			"description": null
-		},
-		{
-			"id": "a409d7f7-db0f-f011-aaa7-000d3a654169",
-			"name": "global_script_test",
-			"description": null
-		},
-		{
-			"id": "95638e4f-7924-f011-8b3d-000d3a64b25b",
-			"name": "script_5412",
-			"description": null
-		},
-		{
 			"id": "7d9c1aa4-daf8-ee11-aaf0-000d3addda1f",
 			"name": "API Trace",
 			"description": null
@@ -53,11 +38,6 @@
 		{
 			"id": "645f83bb-6d01-ef11-aaf0-000d3addda1f",
 			"name": "adaptive",
-			"description": null
-		},
-		{
-			"id": "5c9b9975-a8e7-ef11-90cb-000d3a66ef53",
-			"name": "highchart",
 			"description": null
 		},
 		{
@@ -86,8 +66,8 @@
 			"description": null
 		},
 		{
-			"id": "0b331982-a8e7-ef11-90cb-000d3a66ef53",
-			"name": "intcard",
+			"id": "0e11bc00-7a24-f011-8b3d-000d3a64b25b",
+			"name": "script_5412",
 			"description": null
 		}
 	],
