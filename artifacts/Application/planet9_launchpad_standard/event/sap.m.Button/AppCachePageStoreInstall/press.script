@@ -1,0 +1,8 @@
+const { id, serverAddress, activeBuild, activeVersion } = modelAppCachePageStore.oData;
+const url = getMobileAppUpdateUrlForOS(`${serverAddress}/mobileClients/${id}/build/${activeBuild.id}/`);
+if (isCordova()) {
+    AppCache.UpdateMobileApp(url, activeVersion);
+} else {
+    sap.m.URLHelper.redirect(url, false);
+    sap.m.MessageToast.show('Download Started');
+}

@@ -3,18 +3,32 @@
 	"createdAt": "2022-11-18T16:22:29.956Z",
 	"createdBy": "testcafe",
 	"git": {
-		"remote": "https://github.com/Rommel-GitHome/sample_repo_cicd_tests.git",
-		"branch": "main"
+		"remote": "https://github.com/Rommel-GitHome/sample_repo_cicd_tests.git"
 	},
 	"name": "Sample Repo CICD Tests",
 	"description": "Sample",
-	"ver": "25.04.28.2142",
+	"ver": "25.06.17.1248",
 	"enableCICD": true,
-	"internalReadOnly": false,
-	"oeVersion": null,
-	"excludeTemplateFiles": false,
-	"roles": [],
-	"apps": [],
+	"apps": [
+		{
+			"id": "479ca632-13f8-4b0e-a8a0-eb1ed336432c",
+			"application": "planet9_launchpad_standard",
+			"title": "",
+			"description": "Planet 9 Launchpad ",
+			"package": {
+				"id": "1505e797-e0fa-432e-92aa-a566401451be"
+			}
+		},
+		{
+			"id": "45c21148-8e85-44f2-83a1-a7aae7577f78",
+			"application": "version_management",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "1505e797-e0fa-432e-92aa-a566401451be"
+			}
+		}
+	],
 	"api": [],
 	"odataSource": [],
 	"odataMock": [],
@@ -33,11 +47,6 @@
 		{
 			"id": "7d9c1aa4-daf8-ee11-aaf0-000d3addda1f",
 			"name": "API Trace",
-			"description": null
-		},
-		{
-			"id": "7aac038a-7a24-f011-8b3d-000d3a64b25b",
-			"name": "script_5412",
 			"description": null
 		},
 		{
@@ -64,27 +73,12 @@
 			"id": "17a3a73c-a4bf-ee11-85f9-0022489f935c",
 			"name": "script_3307",
 			"description": null
-		},
-		{
-			"id": "0e11bc00-7a24-f011-8b3d-000d3a64b25b",
-			"name": "script_5412",
-			"description": null
 		}
 	],
 	"jsscript_group": [
 		{
 			"id": "d51b3fee-4abc-ee11-85f9-0022489f935c",
 			"name": "Project_Testing",
-			"description": ""
-		},
-		{
-			"id": "ae56aa45-7924-f011-8b3d-000d3a64b25b",
-			"name": "Project_5412_A",
-			"description": ""
-		},
-		{
-			"id": "1c1b5d69-7924-f011-8b3d-000d3a64b25b",
-			"name": "Project_5412_B",
 			"description": ""
 		}
 	],
@@ -95,13 +89,21 @@
 	"api_authentication": [],
 	"api_group": [],
 	"tile": [],
-	"tile_layout": [],
 	"category": [],
-	"tilegroup_layout": [],
 	"launchpad": [],
-	"launchpad_layout": [],
 	"certificates": [],
-	"role": [],
+	"role": [
+		{
+			"id": "a5fc6623-06e7-4ef3-a45c-f7f33d54477f",
+			"name": "Role 3182",
+			"description": null
+		},
+		{
+			"id": "6576c610-22bd-ee11-85f9-0022489f935c",
+			"name": "Role 3225",
+			"description": null
+		}
+	],
 	"systems": [],
 	"doc": [],
 	"wf_notifications": [],
@@ -118,7 +120,5 @@
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],
-	"wf_taskaction": [],
-	"theme_ui5": [],
-	"webapp": []
+	"wf_taskaction": []
 }

@@ -12,6 +12,7 @@
 	"folder": "Sample",
 	"content": "file:///content.js",
 	"useAsGlobalScript": true,
+	"transpiledContent": null,
 	"lastRunSuccessful": false,
 	"isTypescript": false,
 	"language": "javascript",
