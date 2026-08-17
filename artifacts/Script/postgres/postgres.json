@@ -1,0 +1,21 @@
+{
+	"id": "465b8a41-6d85-4278-8465-4fefc7c10e55",
+	"createdAt": "2025-09-08T09:59:12.340Z",
+	"createdBy": "rommel",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "postgres",
+	"ver": "25.09.08.1002",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "d51b3fee-4abc-ee11-85f9-0022489f935c",
+	"package": "1505e797-e0fa-432e-92aa-a566401451be"
+}
