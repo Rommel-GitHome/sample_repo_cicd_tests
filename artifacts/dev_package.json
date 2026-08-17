@@ -7,7 +7,7 @@
 	},
 	"name": "Sample Repo CICD Tests",
 	"description": "Sample",
-	"ver": "25.06.17.1248",
+	"ver": "26.8.17.1140",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
@@ -18,7 +18,13 @@
 	"jsscript_group": [],
 	"theme": [],
 	"pdf": [],
-	"rulesengine": [],
+	"rulesengine": [
+		{
+			"id": "e1a60a66-afb3-48de-a392-577fde9d9e05",
+			"name": "rules-22.10.17",
+			"description": ""
+		}
+	],
 	"reports": [],
 	"api_authentication": [],
 	"api_group": [],
@@ -35,6 +41,7 @@
 	"wf_definition": [],
 	"connector": [],
 	"events": [],
+	"media_library": [],
 	"code_snippets": [],
 	"wf_determination": [],
 	"wf_taskaction": []
